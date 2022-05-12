@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/form-faro/static/css/main.0d99b068.css",
+    "main.js": "/form-faro/static/js/main.337e5a45.js",
+    "static/js/787.aeb39de0.chunk.js": "/form-faro/static/js/787.aeb39de0.chunk.js",
+    "static/media/logo.svg": "/form-faro/static/media/logo.dc16a765d814b9f966b2df2ae28ad7e6.svg",
+    "static/media/back-rigth.png": "/form-faro/static/media/back-rigth.8e3c3409370401c5a0a8.png",
+    "static/media/back-left.png": "/form-faro/static/media/back-left.aeab3e06082749a9a5db.png",
+    "index.html": "/form-faro/index.html",
+    "main.0d99b068.css.map": "/form-faro/static/css/main.0d99b068.css.map",
+    "main.337e5a45.js.map": "/form-faro/static/js/main.337e5a45.js.map",
+    "787.aeb39de0.chunk.js.map": "/form-faro/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d99b068.css",
+    "static/js/main.337e5a45.js"
+  ]
+}
